@@ -1,61 +1,44 @@
-# Hi there, I'm Derli Aguilar 👋
+# Hi there, I'm Derlis Aguilar 👋 
 
-I'm a passionate **Mobile App Developer** specializing in **Kotlin**, **Jetpack Compose**, and **Flutter**. I love creating sleek, user-friendly apps that solve real-world problems. With a strong background in software development, I’m dedicated to learning and sharing knowledge in the tech community.
+### **Software Architect & Senior Full-Stack Developer** | Tech Entrepreneur
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Honduras-Choluteca-blue?style=flat-square&logo=openstreetmap" alt="Location">
+  <img src="https://img.shields.io/badge/Role-Software%20Architect%20%26%20Senior%20Dev-orange?style=flat-square&logo=codeforces" alt="Role">
+  <img src="https://img.shields.io/badge/GDG-Choluteca%20Lead-green?style=flat-square&logo=google" alt="GDG Lead">
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on improving my English to expand my opportunities.
-- 🌱 I’m constantly learning new technologies and best practices in mobile development.
-- 👯 I’m looking to collaborate on open-source projects, particularly those related to mobile applications.
-- 🤔 I’m open to freelance work and part-time job opportunities.
-- 💬 Ask me about **Flutter**, **Kotlin**, **Firebase**, and **Jetpack Compose**.
-- 📫 How to reach me: [derlishn504@gmail.com](mailto:derlishn504@gmail.com)
+I am a Software Architect and Senior Full-Stack Developer with a pragmatic approach, specialized in building scalable B2B ecosystems, multi-tenant architectures, and end-to-end solutions (Mobile, Web, and Backend). Beyond coding, I focus on total infrastructure control through private VPS, Docker, and secure perimetral networks.
+
+- 🔭 **Building & Scaling**: Directing technical operations at **Insusoft**, developing TaaS solutions and multi-tenant architectures.
+- 📱 **Mobile Crafting**: Crafting high-performance cross-platform apps with **Flutter & Dart**, alongside native Android development using **Kotlin** and **Jetpack Compose**.
+- ☁️ **DevOps & Infrastructure**: Managing standalone Docker environments, Traefik, Dokploy, and Cloudflare Zero Trust security pipelines.
+- 🌐 **Community Leadership**: Organizer Principal for **Google Developer Group (GDG) Choluteca**, driving regional tech growth and large-scale events like *Build with AI - Zona Sur*.
+- 💼 **Professional Reach**: Validated international experience leading projects across Honduras, Argentina, and Panamá.
+
+*Note: Many of my core enterprise architectures, fintech systems, and mobile solutions remain private or under strict NDA agreements.*
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Infrastructure
 
-- **Languages**: Kotlin, Dart, Java, JavaScript
-- **Frameworks**: Flutter, Jetpack Compose
-- **Tools**: Android Studio, Git, Firebase, AWS
-- **Databases**: SQLite, Firebase Realtime Database, Firestore
-
+- **Mobile & Frontend**: Flutter, Dart, Kotlin, Jetpack Compose, Clean Architecture, MVVM, BLoC, GetX, React, Next.js.
+- **Backend & Databases**: Node.js, Express, TypeScript, FastAPI, Golang, MongoDB (Multi-tenant), Redis, Supabase, Firebase.
+- **DevOps & Private Cloud**: Docker (Standalone & Compose), Dokploy, Traefik (Reverse Proxy, SSL), Custom VPS Server Management.
+- **Security & Networking**: Cloudflare Zero Trust (Tunnels, WAF), HTTP/3 (QUIC), Perimetral Server Isolation.
+- **AI & Productivity**: Local LLMs integration (Ollama, LM Studio, DeepSeek), Cursor IDE.
 ---
 
-## 📈 GitHub Stats
+## 💬 Let's Connect
 
-![Derli's GitHub stats](https://github-readme-stats.vercel.app/api?username=derlishn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derlishn&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/derlishn)
-- **Twitter**: [@My X](https://x.com/derlishn504)
+- **LinkedIn**: [Derlis Aguilar](https://www.linkedin.com/in/derlishn/)
+- **GitHub**: [@derlishn](https://github.com/derlishn)
+- **Email**: [derlisdeveloper@gmail.com](mailto:derlisdeveloper@gmail.com)
+- **X (Twitter)**: [@derlishn504](https://x.com/derlishn504)
 
 ---
-
-## 🌟 Projects
-
-- **[WallTrack App](https://github.com/derlishn/walltrack-app)**: A powerful application for tracking expenses and income.
-- **[UberX Space](https://github.com/derlishn/uberx.git)**: A parody of the Uber app, developed using Kotlin and Jetpack Compose.
-
-*Please note that many of my projects are not on GitHub because I have worked on them privately or under NDA agreements. This is why my public repositories may not fully reflect the breadth of my experience.*
-
----
-
-## 🎨 Hobbies & Interests
-
-- **Tech Communities**: Organizer of GDG Choluteca, I enjoy sharing and learning in tech communities.
-- **Personal Growth**: Dedicated to learning and improving daily, both in my career and personal life.
-- **Cars**: Enthusiast of car mechanics and customization.
-
----
-
-## 🤝 Open to
-
-- Collaborations on open-source projects
-- Part-time job opportunities
-- Freelance mobile app development
+*“Building resilient systems, clean code, and robust infrastructure.”*
